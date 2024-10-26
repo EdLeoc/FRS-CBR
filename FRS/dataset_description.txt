@@ -1,0 +1,29 @@
+Dataset that contains recommendations for NPK fertilizer rates for different cases of climatic and soil conditions in coffee crops in the Cauca region in Colombia.
+
+The variables of this dataset are described below:
+
+Density: Represents the planting density of plants in a coffee crop, that is, the number of plants per hectare.
+
+Shadow coverage: Indicates the shade per hectare of the coffee crop, measured on a scale from 0 to 1.
+
+Season: Refers to the climatic season to which the year in which fertilization is to be carried out was classified. 'Seca' represents the dry season, 'Lluviosa' represents the rainy season and 'Normal' represents the normal season.
+
+Humidity: Represents the percentage of moisture in the soil, measured on scales from 0 to 1.
+
+N: It is the level of N in the soil, measured in mg/Kg.
+
+P: It is the level of P in the soil, measured in mg/Kg.
+
+K: It is the level of K in the soil, measured in mg/Kg.
+
+pH: It is the pH level in the soil.
+
+Cond_N: It is the rate of nitrogenous fertilizer to recommend.
+
+Cond_P: It is the rate of phosphorus fertilizer to recommend.
+
+Cond_K: It is the rate of potassium fertilizer to recommend.
+
+Note: Fertilizer rates are represented as follows: 1 is low rate, 2 is normal rate, 3 is high rate and 4 is very high rate. The fertilizer rate depends on the sowing density, this is indicated in the corresponding research article.
+
+Plus_A and Plus_B are additional recommendations, regarding irrigation and soil and crop care.
